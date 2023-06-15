@@ -1,3 +1,4 @@
 # EndlessRunner
-My first unreal project \n
-Very advanced and totally *not* super basic.
+My first unreal project
+
+Very advanced and totally *ɴᴏᴛ* super basic.
